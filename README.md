@@ -18,7 +18,7 @@ Usage-
 Click the "Increment" button to increase the count of passengers entering the bus. Click the "Save" button to save the current count and reset the counter to 0. The current count and previous entries will be displayed on the page.
 
 Credits-
-This project was created by [Your Name Here].
+This project was created by Vimal Dubey(me).
 
 License-
 This project is licensed under the MIT License - see the LICENSE.md file for details.
